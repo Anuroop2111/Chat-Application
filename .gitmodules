@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Anuroop2111/Messaging-App
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Anuroop2111/Messaging-App-Frontend
